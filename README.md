@@ -12,3 +12,22 @@ El curso también cuenta con un taller para poder unificar todo lo aprendido has
 * Code::Blocks IDE (Descarga e instalación en video)
 
 [Link Curso en Udemy](https://www.udemy.com/curso-de-cpp-basico-a-avanzado)
+
+
+# Secciones
+
+[Archivos de texto y binarios] (https://github.com/Carlosma7/Curso-Cpp-Basico-a-Avanzado/tree/master/Archivos%20de%20texto%20y%20binarios)
+
+[Arreglos unidimensionales] (https://github.com/Carlosma7/Curso-Cpp-Basico-a-Avanzado/tree/master/Arreglos%20unidimensionales)
+
+[Estructuras condicionales] (https://github.com/Carlosma7/Curso-Cpp-Basico-a-Avanzado/tree/master/Estructuras%20condicionales)
+
+[Estructuras repetitivas] (https://github.com/Carlosma7/Curso-Cpp-Basico-a-Avanzado/tree/master/Estructuras%20repetitivas)
+
+[Funciones] (https://github.com/Carlosma7/Curso-Cpp-Basico-a-Avanzado/tree/master/Funciones)
+
+[Operaciones Basicas] (https://github.com/Carlosma7/Curso-Cpp-Basico-a-Avanzado/tree/master/Operaciones%20Basicas)
+
+[Registros] (https://github.com/Carlosma7/Curso-Cpp-Basico-a-Avanzado/tree/master/Registros)
+
+[Proyecto Final: Agenda] (https://github.com/Carlosma7/Curso-Cpp-Basico-a-Avanzado/blob/master/Agenda.cpp)
