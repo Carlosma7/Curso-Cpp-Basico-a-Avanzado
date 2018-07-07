@@ -30,4 +30,6 @@ El curso también cuenta con un taller para poder unificar todo lo aprendido has
 
 [Registros](https://github.com/Carlosma7/Curso-Cpp-Basico-a-Avanzado/tree/master/Registros)
 
-[Proyecto Final: Agenda](https://github.com/Carlosma7/Curso-Cpp-Basico-a-Avanzado/blob/master/Agenda.cpp)
+## Proyecto Final
+
+[Agenda](https://github.com/Carlosma7/Curso-Cpp-Basico-a-Avanzado/blob/master/Agenda.cpp)
