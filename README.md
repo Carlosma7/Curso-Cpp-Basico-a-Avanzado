@@ -1,4 +1,4 @@
-# Curso-Cpp-Basico-a-Avanzado
+# Curso Cpp Basico a Avanzado
 Curso diseñado para principiantes o estudiantes universitarios sin conocimientos previos del lenguaje.
 
 El curso se enfocará en aprender los conceptos básicos y avanzados de C++ con Programación Modular . Un curso totalmente enfocado a estudiantes universitarios o principantes que deseen aprender programación con C++.
